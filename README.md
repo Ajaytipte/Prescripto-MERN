@@ -11,8 +11,10 @@ A full-stack Doctor Appointment Booking System built using the MERN stack, inclu
 ```bash
 git clone https://github.com/Ajaytipte/Prescripto-MERN.git
 
-2️⃣ Install Dependencies:
+---
+## 2️⃣ Install Dependencies:
 
+```bash
 Navigate to frontend directory and install dependencies:
 
 cd frontend
